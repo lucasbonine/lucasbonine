@@ -67,7 +67,7 @@ Meu GitHub é um reflexo do meu foco em backend, APIs RESTful e boas práticas d
 
 - 📘 Formado em Ciência da Computação pela **UFPEL**
 - 📧 [lucasbonine@live.com]
-- 💼 [https://www.linkedin.com/in/lucasbarrosbonine/]
+- 💼 [https://www.linkedin.com/in/lucasbonine/]
 
 ---
 
