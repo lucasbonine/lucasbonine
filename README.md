@@ -1,76 +1,78 @@
-# 👋 Olá! Eu sou o Lucas Barros Bonine 
+# 👨‍💻 Lucas Barros Bonine
 
-Sou bacharel em Ciência da Computação pela Universidade Federal de Pelotas (UFPEL), com forte interesse e experiência prática no desenvolvimento backend em **Java**, utilizando tecnologias como **Spring Boot**, **JPA**, **JUnit**, **MVC** e automação de testes com **Selenium**.
+Bacharel em Ciência da Computação pela Universidade Federal de Pelotas (UFPel).
 
-Meu GitHub é um reflexo do meu foco em backend, APIs RESTful e boas práticas de desenvolvimento Java.
-
----
-
-## ☕ Destaques em Java
-
-### 🔧 testes-automatizados-selenium-alura
-> Testes de aceitação com **Selenium WebDriver**, seguindo boas práticas de automação de testes em Java.  
-📌 Tecnologias: `Java`, `Selenium`, `JUnit`, `Maven`  
-📁 [Ver repositório](https://github.com/lucasbonine/testes-automatizados-selenium-alura)
+Atualmente curso uma **Pós-graduação em Automação de Testes de Software**, aprofundando conhecimentos em automação de testes, qualidade de software e integração contínua. Minha experiência profissional é concentrada no desenvolvimento backend com Java, enquanto meus estudos atuais estão direcionados para Engenharia de Qualidade (QA) e automação.
 
 ---
 
-### 🕒 ponto-inteligente-api
-> API REST para controle de ponto, construída com **Spring Boot**. Projeto desenvolvido durante curso da Udemy.  
-📌 Tecnologias: `Java`, `Spring Boot`, `JPA`, `MySQL`, `Hibernate`, `Lombok`  
-📁 [Ver repositório](https://github.com/lucasbonine/ponto-inteligente-api)
+## 📌 Repositórios em destaque
 
----
+### 🚀 pgats-ci
+Projeto desenvolvido durante a pós-graduação, reunindo automação de testes end-to-end, testes unitários, cobertura de código, mutation testing e integração contínua.
 
-### 📚 springboot-mvc-alura
-> Projeto demonstrando arquitetura MVC utilizando Spring Boot e Thymeleaf.  
-📌 Tecnologias: `Java`, `Spring Boot`, `Spring MVC`, `Thymeleaf`  
-📁 [Ver repositório](https://github.com/lucasbonine/springboot-mvc-alura)
+**Tecnologias:** Playwright, JavaScript, GitHub Actions, Jest, Stryker e CI/CD.
 
----
+🔗 https://github.com/lucasbonine/pgats-ci
+
+### 🧪 payment-control
+API GraphQL criada para prática de automação de testes de APIs, contemplando autenticação JWT, testes automatizados de mutations e validação de fluxos de negócio.
+
+**Tecnologias:** Node.js, GraphQL, Apollo Server, Mocha, Chai, Supertest e JWT.
+
+🔗 https://github.com/lucasbonine/payment-control
+
+### 🌐 ponto-inteligente-api
+API REST desenvolvida com Spring Boot para controle de ponto.
+
+**Tecnologias:** Java, Spring Boot, JPA, Hibernate e MySQL.
+
+### 🔍 testes-automatizados-selenium-alura
+Projeto de automação de testes funcionais utilizando Selenium WebDriver.
+
+**Tecnologias:** Java, Selenium, JUnit e Maven.
 
 ### 📦 loja-jpa-alura
-> Projeto com foco em persistência utilizando **JPA** com Hibernate. Simulação de uma loja virtual.  
-📌 Tecnologias: `Java`, `JPA`, `Hibernate`, `MySQL`  
-📁 [Ver repositório](https://github.com/lucasbonine/loja-jpa-alura)
-
----
+Projeto voltado à persistência de dados utilizando JPA e Hibernate.
 
 ### 📊 consultas-avancadas-jpa-alura
-> Consultas avançadas com JPA Criteria e JPQL, focando em boas práticas e performance.  
-📌 Tecnologias: `Java`, `JPA`, `Criteria API`, `JPQL`  
-📁 [Ver repositório](https://github.com/lucasbonine/consultas-avancadas-jpa-alura)
+Exemplos de consultas utilizando JPQL e Criteria API.
 
 ---
 
-### 🧪 testes-unitarios-java-junit
-> Projeto voltado à prática de testes unitários com **JUnit**.  
-📌 Tecnologias: `Java`, `JUnit`, `Maven`  
-📁 [Ver repositório](https://github.com/lucasbonine/testes-unitarios-java-junit)
+## 🛠️ Tecnologias
+
+### Desenvolvimento
+
+- Java
+- Spring Boot
+- JPA / Hibernate
+- REST APIs
+- PostgreSQL
+- MySQL
+
+### Automação de Testes
+
+- Playwright
+- Selenium
+- Mocha
+- Chai
+- Jest
+- Supertest
+- GraphQL
+- GitHub Actions
+- CI/CD
 
 ---
 
-## 🚀 Tecnologias e Conceitos
+## 🎓 Formação
 
-- ✅ Java (8+)
-- ✅ Spring Boot / Spring MVC
-- ✅ Hibernate / JPA
-- ✅ APIs RESTful
-- ✅ MySQL / JDBC
-- ✅ Testes automatizados com JUnit e Selenium
-- ✅ Maven / Gradle
-- ✅ Boas práticas de arquitetura backend
+- Bacharel em Ciência da Computação — Universidade Federal de Pelotas (UFPel)
+- Pós-graduação em Automação de Testes de Software *(em andamento)*
 
 ---
 
 ## 📫 Contato
 
-- 📘 Formado em Ciência da Computação pela **UFPEL**
-- 📧 [lucasbonine@live.com]
-- 💼 [https://www.linkedin.com/in/lucasbonine/]
-
----
-
-*Obrigado por visitar meu perfil!*
-
-
+- LinkedIn: https://www.linkedin.com/in/lucasbonine/
+- E-mail: lucasbonine@live.com
