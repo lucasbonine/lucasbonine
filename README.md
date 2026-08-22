@@ -1,4 +1,4 @@
-# 👨‍💻 Lucas Barros Bonine
+# 👨🏻‍💻 Lucas Barros Bonine
 
 Bacharel em Ciência da Computação pela Universidade Federal de Pelotas (UFPel).
 
