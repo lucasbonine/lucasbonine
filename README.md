@@ -19,7 +19,7 @@ Os projetos reúnem exercícios de cursos, trabalhos da pós-graduação e estud
 - Helpers reutilizáveis para cadastro e login, mantendo as validações de mensagens, visibilidade e navegação nos testes.
 - Seletores CSS e configuração da URL do ambiente por **dotenv**, com execução interativa ou pelo terminal.
 
-[pgats-ci](https://github.com/lucasbonine/pgats-ci) — estudo da pós-graduação a partir de um fork.
+[pgats-ci](https://github.com/lucasbonine/pgats-ci) — estudo de integração contínua da pós-graduação a partir de um fork.
 
 - Testes end-to-end com **Playwright e JavaScript**, incluindo fluxos de navegação e validação de restrições de altura.
 - **GitHub Actions** com execução manual, encadeamento de workflows e pipeline que reúne análise estática, testes unitários e E2E.
