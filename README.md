@@ -12,6 +12,13 @@ Os projetos reúnem exercícios de cursos, trabalhos da pós-graduação e estud
 
 ### Testes web e integração contínua
 
+[pgats-automacao-web-2026](https://github.com/lucasbonine/pgats-automacao-web-2026) — projeto da pós-graduação com testes end-to-end em **Cypress e JavaScript** no site Automation Exercise.
+
+- Cenários de cadastro, login com credenciais válidas e inválidas, logout e rejeição de e-mail já cadastrado, incluindo exclusão da conta no fluxo de login válido.
+- Geração de dados com **Faker** e uma factory de usuários, com preparação de contas no `beforeEach` para os cenários que exigem cadastro prévio.
+- Helpers reutilizáveis para cadastro e login, mantendo as validações de mensagens, visibilidade e navegação nos testes.
+- Seletores CSS e configuração da URL do ambiente por **dotenv**, com execução interativa ou pelo terminal.
+
 [pgats-ci](https://github.com/lucasbonine/pgats-ci) — estudo da pós-graduação a partir de um fork.
 
 - Testes end-to-end com **Playwright e JavaScript**, incluindo fluxos de navegação e validação de restrições de altura.
